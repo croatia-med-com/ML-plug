@@ -1,0 +1,25 @@
+/* CSS for flag switcher */
+.flag-language-switcher img {
+    cursor: pointer;
+}
+.flag-size-small {
+    width: 16px;
+    height: 12px;
+}
+.flag-size-medium {
+    width: 32px;
+    height: 24px;
+}
+.flag-size-large {
+    width: 64px;
+    height: 48px;
+}
+.flag-language-switcher {
+    position: fixed;
+    z-index: 9999;
+    padding: 10px;
+}
+.flag-language-switcher a {
+    margin: 0 5px;
+    display: inline-block;
+}

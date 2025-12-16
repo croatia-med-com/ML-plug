@@ -1,0 +1,1 @@
+/* This folder should contain flag images with country codes */
