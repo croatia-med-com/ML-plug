@@ -1,0 +1,3 @@
+<?php
+// SEO Output Class
+?>

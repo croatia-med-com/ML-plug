@@ -1,0 +1,3 @@
+<?php
+// Language Detection Class
+?>
